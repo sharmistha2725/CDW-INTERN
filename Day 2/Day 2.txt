@@ -1,0 +1,15 @@
+Vectorization
+to convert raw text data 
+
+Basic :
+1. Bag of words
+2. TF-IDF
+
+Advanced :
+1. Word Embeddings : word2vec
+2. Contextual Embeddings : BERT, ECMO
+
+Label Encoding 
+techniques 
+
+One Hot Encoding : binary representation
